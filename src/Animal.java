@@ -4,6 +4,7 @@
  * @author Stephen Thung
  * @version 2019-01-23
  */
+//test
 public class Animal
 {
     /**
@@ -140,8 +141,18 @@ public class Animal
 
         // Check that all fields match (color, name, weight, height):
         
-        // TODO: finish this...
-        
-        /* return TODO; */
+        if (!this.color.equals(otherAni.getColor())) {
+        	return false;
+        }
+        if (!this.name.equals(otherAni.getName())) {
+        	return false;
+        }
+        if (!(this.weight == otherAni.getWeight())) {
+        	return false;
+        }
+        if (!(this.height == otherAni.getHeight())) {
+        	return false;
+        }
+        return true;
     }
 }
