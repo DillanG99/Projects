@@ -6,13 +6,19 @@ OU EMAIL____________: Dillan.G.Gibbons-1@ou.edu
 
 Tasks:
 1. Finish Equipment equals method
-2. XXX
+2. Finish Animal equals method
+3. Write EquipmentTest
+4. Write AnimalTest
 
 Estimated Time (minutes):
 1. 5
-2. XXx
+2. 5
+3. 15
+4. 10
 
 Actual Time (minutes):
 1. 10
-2. XXX
+2. 3
+3. 20
+4. 12
 */}
