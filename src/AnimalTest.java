@@ -38,4 +38,3 @@ public class AnimalTest
     	Assert.assertEquals("testing, a test-colored animal. 1.0 pounds, 1.0 inches\n", info);
     }
 }
-
